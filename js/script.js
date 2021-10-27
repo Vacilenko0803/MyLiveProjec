@@ -25,6 +25,14 @@ function qeurti(){
 }
 
 
+//color=======================================================================================
+let inputText = document.querySelector('.input__text')
+let outText = document.querySelector('.out__text')
 
+document.querySelector('.button__text').addEventListener('click', () => {
+	outText.innerHTML = inputText.value
+})
+
+//color=======================================================================================
 
 
