@@ -158,6 +158,7 @@ body {
 
 .wrapp {
   display: flex;
+  background-color: #b5fd8d;
   padding-right: 750px;
 }
 
