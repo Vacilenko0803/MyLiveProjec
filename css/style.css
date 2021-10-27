@@ -151,9 +151,9 @@ h6 {
 }
 body {
   padding-top: 60px;
- background-color: silver;
+ 
   user-select: none;
-  background: url('/img/01.png') 0 0/100% no-repeat;
+  background: url('../img/01.png') 0 0/100% no-repeat;
 }
 
 .wrapp {
